@@ -1,6 +1,6 @@
 node_modules
 dist
-.env
 *.log
 
 TutorKhujo_Auth_API.postman_collection.json
+config.bat
